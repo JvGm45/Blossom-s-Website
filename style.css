@@ -1,0 +1,147 @@
+.caixas {
+    background: url("bg.jpg");
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.imagemIcon {
+    border-radius: 150px;
+    margin: 18px 0 18px 0;
+    padding: 0 0;
+}
+
+.backgroundComeço {
+    background: url("bg.jpg");
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(201, 19, 19);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffffff;
+    text-decoration: underline; 
+}
+
+.all {
+    background: linear-gradient(#1b1b1b, rgb(138, 16, 16));
+}
+
+.textosInfos {
+    padding: 10em;
+    margin: 0 auto;
+    font-size: 22px;
+    color:#ffffff;
+}
+
+.tituloInfos {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.textosInfos p {
+        margin: 0 0 2em;
+}
+
+.Widget {
+    margin: 0 0 0 auto;
+    float: right;
+}
+
+.discordWidget {
+    margin: 0 10em 2em; 
+
+}
+
+.paddingTexto {
+    padding: 0 0 5em;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.iconFooter {
+    padding: 1em;
+    border-radius: 150px;
+}
+
+.copyright {
+    color: white;
+    font-size: 15px;
+}
+
+
+
+/* HTML PÁGINA DE VIPS!
+*/
+
+.centerTitulo {
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.vipsInfos {
+
+    margin: 5em 0 3em;
+    font-size: 22px;
+    color:#ffffff;
+    text-align: center;
+}
+
+.vipsInfos p {
+    margin: 0 0 1em;
+}
+
+.vips {
+    width: 940px;
+    margin: 0 50em;
+    padding: 50px 0;
+}
+
+.vips li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 50px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    color: white;
+    border-radius: 20px;
+}
+
+.vips h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.listaBeneficios {
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.beneficios {
+    font-size: 16px;
+}
