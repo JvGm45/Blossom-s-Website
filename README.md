@@ -1,2 +1,3 @@
-# Blossom-s-Website
-Apenas um projeto para tentar aprimorar meu uso de HTML e CSS
+# Blossom-s Website
+
+Projeto de website usando HTML e CSS para aprimorar conhecimentos. 
